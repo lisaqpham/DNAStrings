@@ -13,5 +13,5 @@ Input:
 - When prompted, input the name of your text file as is (no quotations)
 
 Output: 
-- Statistics will be send to "lisapham.out"
-- Outputs are labeled with input file
+- Statistics will be sent to "lisapham.out"
+- File outputs are labeled with the input file name 
